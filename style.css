@@ -1,0 +1,69 @@
+
+section{
+    height: 500px;
+    padding-bottom: 150px;
+}
+.toppart{
+    background-image: url(images/top-banner\ \(1\).png);
+    
+    background-repeat: no-repeat;
+}
+.firstheading{
+    font-size: 50px;
+}
+.info1{
+    width: 40%;
+    margin-left: 5%;
+    padding-left: 2%;
+    float: left;
+}
+.info1 img{
+    width: 100%;
+}
+#high-lighted{
+    color: orange;
+}
+.secondheading{
+    font-size: 25px;
+}
+.paragraphfirst{
+    font-size: 16px;
+    font-family:'Poppins', sans-serif;
+    color: dimgray;
+}
+.btn1 {
+    text-decoration: none;
+    background: linear-gradient(45deg, lightsalmon, tomato);
+    padding: 10px 40px;
+    border-radius: 12px;
+    color: white;
+    
+    font-size: 23px;
+
+}
+.midpart{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.areaend div{
+    box-shadow: 5px 7px 40px gray ;
+    height: 80%;
+}
+.top-head{
+    font-size: 40px;
+}
+.secondhead{
+    color: orange;
+    font-size: 25px;
+}
+#merndeveloper{
+    border-left: 8px solid tomato;
+}
+#stackdeveloper{
+    border-left: 8px solid blue;
+}
+footer p{
+    text-align: center;
+    color: dimgray;
+}
